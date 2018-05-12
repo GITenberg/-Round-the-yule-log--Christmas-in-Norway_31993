@@ -1,0 +1,40 @@
+_repo: -Round-the-yule-log--Christmas-in-Norway_31993
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Broekstad, H. L.
+    gutenberg_agent_id: '35604'
+    url: http://www.gutenberg.org/2009/agents/35604
+covers:
+- cover_type: archival
+  image_path: 31993-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Asbjørnsen, Peter Christen
+    aliases:
+    - Asbjörnsen, P. Chr.
+    - Asbjørnsen, P. C. (Peter Christen)
+    - Bonifacius, Clemens
+    - Asbjornsen, Peter Christen
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '34177'
+    url: http://www.gutenberg.org/2009/agents/34177
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Christen_Asbj%C3%B8rnsen
+description: ''
+gutenberg_issued: '2010-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31993'
+  lccn: '13012205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Norway -- Juvenile fiction'
+title: '''Round the yule-log: Christmas in Norway'
+url: http://www.gutenberg.org/ebooks/31993
